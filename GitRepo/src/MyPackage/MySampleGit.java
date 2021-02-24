@@ -6,7 +6,7 @@ public class MySampleGit {
 		// TODO Auto-generated method stub
 		
 		m1();
-		
+		m2();
 	
 
 	}
