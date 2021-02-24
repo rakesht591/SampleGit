@@ -5,11 +5,14 @@ public class MySampleGit {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("welcome to git");
+		m1();
 		
-		System.out.println("2nd line added");
 	
 
 	}
 
+	public static void m1() {
+		System.out.println("m1 method");
+	}
+	
 }
